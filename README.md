@@ -36,5 +36,3 @@ shashwatpandeyvatsa/shashwatpandeyvatsa is a ✨ special ✨ repository because 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-https://dev.to/leereilly/comment/12jk4
