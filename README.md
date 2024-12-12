@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shashwat Pandey Vatsa</h1>
-<h3 align="center">A passionate frontend developer from ITER, SOA University, Bhubaneswar, Odisha, India.</h3>
-<h3 align="center">I love exploring things, currently enjoys making animations, video editing, photo editing, creative stuffs, also loves playing flute </h3> 
+<h3 align="center">A passionate SRE Engineer working at Plivo. Did my B.Tech in Computer Science and Engineering from ITER, SOA University, Bhubaneswar, Odisha, India.</h3>
+<h3 align="center">I love learning new things, making animations, video editing, photo editing, creative stuffs, also loves playing flute, playing badminton and swimming </h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwatpandeyvatsa&label=Profile%20views&color=0e75b6&style=flat" alt="shashwatpandeyvatsa" /> </p>
 
@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Portfolio Website**
 
-- 🌱 I’m currently learning **JAVA, DSA, JS, Python, Web Dev**
+- 🌱 I’m currently learning **Cloud(AWS), PYTHON, DSA, JS, Golang and Scripting**
 
-- 📫 How to reach me **1941012918.q.shashwatpandeyvatsa@gmail.om**
+- 📫 How to reach me **vatsashashwat.spv@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
